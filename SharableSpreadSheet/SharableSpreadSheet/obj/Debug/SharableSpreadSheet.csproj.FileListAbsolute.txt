@@ -1,0 +1,2 @@
+C:\Users\Eden\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\SharableSpreadSheet.csproj.AssemblyReference.cache
+C:\Users\Eden\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\SharableSpreadSheet.csproj.CoreCompileInputs.cache
